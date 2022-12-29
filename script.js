@@ -31,13 +31,13 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
+            "https://fs130.myvi.tv:8092/qe/Lr/Ue/GX/LE/-q/az/rc/Hx/0z/-A/2/2.mp4?&s=YemBGali-SpXvh49PiQcE0t9sH6MLbRtkcLbmAeqACI5FE3-C2qxmU-fLjpF3OBzQrv3nyVfqDih5BltPP4sqw2&r=uPDqU8tDFdZE1dRiwIN7MzC4ircDPrFEjQRgB59Z3iY1&do=6386&d=5748&ri=YkqFEG3SghTsTF1zAAAAAA2",
           label: "1080p",
           default: true
         },
         {
           file:
-            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
+            "https://www.myvi.tv/stream/FQGBbraRv0qNMkrpg6cokw2/2.mp4?s=S3mMQZfgkMbI_GXPwoh2jSwENB5pMYNbA8Qw0EC_S0c5FE3-C2qxmU-fLjpF3OBzQrv3nyVfqDih5BltPP4sqw2&r=Y06m9yr6DJAzNyh9_6kYk0KUUoxoEIpoN9ZLPSiGtUi2xRl3f29NR_SVFtUtur7e0&d=6370074&ri=YkqFEG3SghTsTF1zAAAAAA2",
           label: "720p"
         },
         {
