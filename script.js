@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://www.myvi.tv/stream/FQGBbraRv0qNMkrpg6cokw2/2.mp4?s=S3mMQZfgkMbI_GXPwoh2jSwENB5pMYNbA8Qw0EC_S0c5FE3-C2qxmU-fLjpF3OBzQrv3nyVfqDih5BltPP4sqw2&r=Y06m9yr6DJAzNyh9_6kYk0KUUoxoEIpoN9ZLPSiGtUi2xRl3f29NR_SVFtUtur7e0&d=6370074&ri=YkqFEG3SghTsTF1zAAAAAA2",
+            "",
           label: "720p"
         },
         {
