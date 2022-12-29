@@ -35,31 +35,7 @@ const playerInstance = jwplayer("player").setup({
           label: "1080p",
           default: true
         },
-        {
-          file:
-            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
-          label: "720p"
-        },
-        {
-          file:
-            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
-          label: "480p"
-        },
-        {
-          file:
-            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
-          label: "360p"
-        },
-        {
-          file:
-            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
-          label: "240p"
-        },
-        {
-          file:
-            "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm.160p.webm",
-          label: "160p"
-        }
+        
       ],
       
       tracks: [
