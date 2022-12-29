@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "",
+            "https://edef5.pcloud.com/cBZ0fEzJ8ZbR8XkBZhN04ZZn19Ec7ZQ5ZZlm5ZkZ2QECV7ZJ7ZMVZz0ZxVZc7ZHkZEVZT0Z4VZjXZNkZB7Z3VZ9XZB0kmZyyE6BegVsFuP4Btx8kaDRpWEhuuV/The.Lost.City.2022.TRUEFRENCH.1080p.WEB-DL.DD5.1.H.264.mp4",
           label: "1080p",
           default: true
         },
